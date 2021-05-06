@@ -1,0 +1,6 @@
+# Project exclude paths
+/myrpc-core/target/
+/myrpc-demo-api/target/
+/myrpc-demo-client/target/
+/myrpc-demo-server/target/
+/target/
